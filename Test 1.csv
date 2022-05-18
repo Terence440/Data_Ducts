@@ -1,0 +1,9 @@
+Name,Department,CurrentCGPA,Expected Graduation Salary,Actual Graduation Salary
+Meow,,3.7,,3500
+Woof,Software Engineering,2.0,4500,3500
+,Information Systems,4.3,8000,3500
+Meow,Information Systems,4.1,,3200
+GKY,Artificial Intelligence,3.8,,3400
+TWC,Artificial Intelligence,2.5,8000,4300
+YH,Software Engineering,,4000,3500
+GF,Software Engineering,2.5,4000,3400
