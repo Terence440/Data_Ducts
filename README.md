@@ -45,5 +45,23 @@ Features in the project:
 
       ![sorting_Column](https://user-images.githubusercontent.com/84385119/169642919-a9529bdf-09fe-4a03-b73b-c31102050cfe.png)
       
+* Remove Duplicate Data _(Only remove the data with condition)_
+    * Before Remove 
+    
+      ![afterConcatenate](https://user-images.githubusercontent.com/84385119/169642405-9f904217-0b5e-4153-992f-63af9d799bd3.png)
+      
+    * After Remove
+
+      ![afterRemoveDupl](https://user-images.githubusercontent.com/84385119/169643164-48c3f51a-46ad-4cdd-a061-8f27b2681438.png)
+
+* Remove Missing Data _(Only remove the data with condition)_
+    * Before Remove 
+    
+      ![afterRemoveDupl](https://user-images.githubusercontent.com/84385119/169643164-48c3f51a-46ad-4cdd-a061-8f27b2681438.png)
+      
+    * After Remove
+
+      ![removeMissing](https://user-images.githubusercontent.com/84385119/169643218-d3f2716d-9e23-4fc9-af51-cb2db1cbbd4a.png)
+      
       
 Based on the project requirement, we are requiring recording the data into CSV file type and read the data out from the CSV file. In this project, we have some manipulation methods such as concatenate the data, filter the data (Method to obtain a subset of DataFrame with range of row or column), sorting, and removing data. We also have some statistics function and scaler’s function. And we have also built some graph and scrap some data from the internet and write into the csv file as our extra features. Since this is our first project, implement all the basic requirement already use up all of our times, that’s why we are did not afford to make a good interface for this project.
