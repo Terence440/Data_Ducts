@@ -63,5 +63,36 @@ Features in the project:
 
       ![removeMissing](https://user-images.githubusercontent.com/84385119/169643218-d3f2716d-9e23-4fc9-af51-cb2db1cbbd4a.png)
       
+* Filling Missing Data
+    * Before Filling
+
+      ![removeMissing](https://user-images.githubusercontent.com/84385119/169643218-d3f2716d-9e23-4fc9-af51-cb2db1cbbd4a.png)
       
-Based on the project requirement, we are requiring recording the data into CSV file type and read the data out from the CSV file. In this project, we have some manipulation methods such as concatenate the data, filter the data (Method to obtain a subset of DataFrame with range of row or column), sorting, and removing data. We also have some statistics function and scaler’s function. And we have also built some graph and scrap some data from the internet and write into the csv file as our extra features. Since this is our first project, implement all the basic requirement already use up all of our times, that’s why we are did not afford to make a good interface for this project.
+    * After Filling
+
+      ![missingData](https://user-images.githubusercontent.com/84385119/169679430-7798c57c-dbee-4668-8403-08d546b9bccf.png)
+      
+* Manipulation Data
+    * Sample Data
+
+      ![Sample Manipulation](https://user-images.githubusercontent.com/84385119/169679507-60b3993c-64bd-488d-b95e-5b7fe66f59ef.png)
+      
+    * Manipulate the Data
+
+      ![manipulation](https://user-images.githubusercontent.com/84385119/169679506-dc64f540-1fe7-4bf7-a5b1-3729a64938d4.png)
+      
+      ![scaling](https://user-images.githubusercontent.com/84385119/169679700-6bfc25b7-028f-4238-ab2e-a873ef7b9c53.png)
+      
+* KNN
+    * Regressor
+
+      ![RegressorKNN](https://user-images.githubusercontent.com/84385119/169679831-2d8044ee-5a61-49d4-b4d7-0c6ba6a52d09.png)
+      
+    * Classifier
+
+      ![ClassiferKNN](https://user-images.githubusercontent.com/84385119/169679835-c8551033-4944-4c32-b6bc-255b54b6518d.png)
+      
+* Sample Graph
+
+      ![SampleGraph](https://user-images.githubusercontent.com/84385119/169679947-6ef814ee-579a-4766-a24d-b9c482a28206.png)
+      
