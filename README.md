@@ -94,7 +94,6 @@ Features in the project:
       
 * Sample Graph
 
-      ![SampleGraph](https://user-images.githubusercontent.com/84385119/169679947-6ef814ee-579a-4766-a24d-b9c482a28206.png)
-      
-      ![scaling](https://user-images.githubusercontent.com/84385119/169679700-6bfc25b7-028f-4238-ab2e-a873ef7b9c53.png)
+![SampleGraph](https://user-images.githubusercontent.com/84385119/169679947-6ef814ee-579a-4766-a24d-b9c482a28206.png)
+
       
