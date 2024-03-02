@@ -1,8 +1,8 @@
 # Data_Ducts
+# Assingment
+# Group Project
 
-Basically, this project is making own system with own database. 
-
-We are using CSV, a very simple database in this project.
+This project is to develop a library for data scientist by converting the data from CSV file for monitoring and controlling purpose. 
 
 * Sample Data
 
