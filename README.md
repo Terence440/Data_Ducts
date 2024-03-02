@@ -1,6 +1,4 @@
-# Data_Ducts
-# Assingment
-# Group Project
+# Data_Ducts (Assingment - Group Project)
 
 This project is to develop a library for data scientist by converting the data from CSV file for monitoring and controlling purpose. 
 
